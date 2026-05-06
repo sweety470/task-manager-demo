@@ -123,6 +123,3 @@ VITE_API_URL=http://localhost:5000
 Sweety Goel
 Full Stack Developer (MERN)
 
----
-
- If you like this project, give it a star!
