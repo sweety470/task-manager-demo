@@ -108,16 +108,6 @@ VITE_API_URL=http://localhost:5000
 
 ---
 
-## Future Improvements
-
-* Authentication (JWT)
-* MongoDB integration
-* Search & filters
-* Pagination
-* Drag & drop UI (Trello style)
-
----
-
 ##  Author
 
 Sweety Goel
